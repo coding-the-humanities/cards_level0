@@ -1,0 +1,18 @@
+html_structure
+----------------
+level: 0
+type: theory
+subject: html 
+
+content:|
+    HTML has a certain structure. It has a head and a body, just like a real human being, but no arms and legs (although you can 
+    include a footer). The head is denoted with the <head> tag, and includes stuff like a <title> and all sorts of so called 'meta'-tags.
+    It usually also includes the links to Javascript files, but that's something for another time. The most important part of the <head> is that you don't see the things that are in there in your browser directly. That is an honor reserved for the <body>. This part of the HTML contains the stuff you see on a webpage and it is best to be seen as a big Tupperware box that can, and eventually will, contain all sorts of smaller boxes. If you leave the box empty, the browser will display a white page. Fill it with words and words will appear.Fill it with boxes and boxes will appear.
+    Remember that you can and should only have one head and one body. If you do otherwise, you are obviously not (g)ettin it.
+    Most crucial of all is that you close you tags (that's what the things between <> are called) at all times, though there are exceptions.You close a tag by repeating it with a dash in front, like this: <body></body>. Closed tags form a unity. Don't include your head in your body or vice versa; that's bad for your health.
+
+tags:
+    -head
+    -body
+    -level 0
+    -html
