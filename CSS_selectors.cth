@@ -1,0 +1,34 @@
+CSS_Selectors
+-------------
+level: 0
+type: theory
+subject CSS
+
+content: |
+
+	In order for CSS to work you first need to specify which element you wish to apply CSS to.
+	To specify your class, under the <head> tag place a tag called <style> within it specify your class like this:
+			.yourClassName{
+
+			}
+	this entire line is called a rule. remember to close your style tag </style>
+	Use the class attribute <div class="yourClassName"> in an element to assign the element to a named class. It is up to you what name you choose for the class. Multiple elements in a document can have the same class value. 
+
+	selector types:
+		1: DOM selectors
+		2: class selectors
+		3: ID selectors
+		4: pseudo-classes selectors
+
+url: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors
+
+tags:
+	-CSS
+	-style
+	-class
+	-rule
+	-level 0
+	-DOM
+	-ID
+	-pseudo
+
