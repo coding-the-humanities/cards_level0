@@ -1,0 +1,11 @@
+css_introduction
+----------------
+level: 0 
+type: introduction
+subject: css
+
+content: | this is the introduction to CSS (cascading style sheet). A CSS file allows you to separate your web sites (X)HTML content from it’s style. As always you use your HTML file to arrange the content, but all of the presentation (fonts, colors, background, borders, text formatting, link effects & so on…) are accomplished within a CSS. |
+url: http://www.cssbasics.com/introduction-to-css/
+	video: https://www.youtube.com/watch?v=HFmaW5WYxe0
+
+tags: css, introduction, cascading style sheet, level0
