@@ -1,0 +1,24 @@
+css_background
+--------------
+level: 0
+type: theory
+subject: css
+
+content: |	
+	The background CSS property is a shorthand for setting the individual background values in a single place in the style sheet. background can be used to set the values for one or more of: background-clip, background-color, background-image, background-origin, background-position, background-repeat, background-size, and background-attachment.
+
+	For now it is important to know the background-image property. You can add color to your background through the use of different ways, like:
+	background-color: red
+	background-color: rgb(255, 255, 128)
+	background-color: hsla(50, 33%, 25%, 0.75)
+	background-color: currentColor
+	background-color: transparent
+	background-color: #bbff00 
+
+url: https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+tags: 
+	- css
+	- theory
+	- background
+	- background-color
