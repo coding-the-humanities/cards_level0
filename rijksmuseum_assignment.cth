@@ -1,0 +1,21 @@
+rijksmuseum_assignment
+----------------------
+level: 0
+type: assignment
+subject: rijksmuseum
+
+content: 
+	learning objective: |
+		The learning objective for this assignment is to be aware of what people look at in a museum. It is about the experience as a visitor. 
+	requirement:
+		1: Go to the Rijksmuseum 
+		2: Take at least 9 pictures of things that are striking to you 
+		3: Write down why you took thesee pictures
+		4: And enjoy the the museum!
+
+tags:
+	- user experience
+	- pictures
+	- assignment
+	- rijksmuseum
+	- level 0
