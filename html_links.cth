@@ -10,7 +10,7 @@ content:|
     It is actually called a hyperlink tag, because of the href="somethi.ng" thing you have to include in it, like this:
     <a href="http://postimg.org/image/5xpfm4m37/">Click Here For Amazing Web Stuff</a>
     Weirdly enough, href is short for hyper reference and not for hyperlink (obviously), but that's not that important.
-    What is important is that you have yo include some sort of text between the opening and closing tag, because if you
+    What is important is that you have to include some sort of text between the opening and closing tag, because if you
     don't, your pointer has nothing to click on and you cannot go to that sweet page you're so eager to visit.
 
 tags:
