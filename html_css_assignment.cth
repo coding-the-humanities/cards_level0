@@ -4,9 +4,20 @@ level:0
 type: assignment
 subject: html and css
 
-content:
-	learning objective: The learning objective for this assignment is to be able to make a webpage that looks good, with the use of HTML and CSS! 
-	requirements: 
-		1: The basic webpage needs to have a HTML file and a CSS file. 
-		2: | The basic webpage needs to contain the 9 pictures that you have made in the Rijksmuseum accompanied with the text, why you have choosen to make the picture (with a maximum of 40 words per picture). |
-		3: The basic webpage needs to 
+objective: |
+  The learning objective for this assignment is to be able 
+  to make a web page that looks good, with the use of HTML and CSS!
+
+requirements:
+- The basic web page needs to have a HTML file and a CSS file. 
+- The basic web page needs to contain the 9 pictures that you have made in the 
+  Rijksmuseum accompanied with the text, why you have choosen to make the 
+  picture (with a maximum of 40 words per picture).
+- The basic webpage needs to 
+
+resources:
+- url:
+
+prerequisites:
+- rijksmuseum_assignment
+- html_assignment

@@ -4,14 +4,23 @@ level: 0
 type: introduction
 subject: html
 
-content: | 
-	When you look at a web page in a web browser, you see, at the simplest level, words. HTML stands for Hypertext Markup Language. It tells the web browser what content to display. In many cases a page also displays images or maybe video. HTML separates "content" (words, images, audio, video, and so on) from "presentation" (the definition of the type of content and the instructions for how that type of content should be displayed). HTML uses a pre-defined set of elements to identify content types.
+description: |
+  When you look at a web page in a web browser, you see, at the simplest level,
+  words. HTML stands for Hypertext Markup Language. It tells the web browser 
+  what content to display. In many cases a page also displays images or 
+  maybe video. HTML separates "content" (words, images, audio, video, and so 
+  on) from "presentation" (the definition of the type of content and the 
+  instructions for how that type of content should be displayed). HTML uses a 
+  pre-defined set of elements to identify content types.
 
-url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
-	video: https://www.youtube.com/watch?v=qVY2x6f3FTU
+resources:
+  articles:
+    url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+  videos:
+    url: https://www.youtube.com/watch?v=qVY2x6f3FTU
 
-tags: 
-	- html 
-	- introduction
-	- hypertext markup language
-	- level0
+tags:
+- html
+- introduction
+- hypertext markup language
+- level0
