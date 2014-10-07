@@ -4,8 +4,14 @@ level: 0
 type: introduction
 subject: html
 
-content: | When you look at a web page in a web browser, you see, at the simplest level, words. HTML is a so called markup language. It tells the web browser what content to display. These words usually have some style characteristics, such as different fonts, font sizes and colors (this is done with CSS). In many cases a page also displays images or maybe video. Sometimes there is a form where you can enter (or search) for information, or customize the display of the page to your liking. Often a page contains content that moves or changes while the rest of the page remains the same. HTML separates "content" (words, images, audio, video, and so on) from "presentation" (the definition of the type of content and the instructions for how that type of content should be displayed). HTML uses a pre-defined set of elements to identify content types.|
+content: | 
+	When you look at a web page in a web browser, you see, at the simplest level, words. HTML stands for Hypertext Markup Language. It tells the web browser what content to display. In many cases a page also displays images or maybe video. HTML separates "content" (words, images, audio, video, and so on) from "presentation" (the definition of the type of content and the instructions for how that type of content should be displayed). HTML uses a pre-defined set of elements to identify content types.
+
 url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
 	video: https://www.youtube.com/watch?v=qVY2x6f3FTU
 
-tags: html, introduction, hypertext markup language, level0
+tags: 
+	- html 
+	- introduction
+	- hypertext markup language
+	- level0
