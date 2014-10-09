@@ -1,12 +1,14 @@
-html_css_assignment
+css_assignment
 -------------------
-level:0
-type: assignment
-subject: html and css
+level:    0
+type:     assignment
+subject:  css
+optional: false
+points:   50
 
 objective: |
-  The learning objective for this assignment is to be able 
-  to make a web page that looks good, with the use of HTML and CSS!
+  The learning objective for this assignment is
+  to make your HTML webpage look good, with the use CSS!
 
 requirements:
 - The basic web page needs to have a HTML file and a CSS file. 
@@ -16,8 +18,12 @@ requirements:
 - The basic webpage needs to 
 
 resources:
-- url:
+  cards:
+  - css_introduction
+  - css_background
+  - css_selectors
+  articles: 
+  - url: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
 
 prerequisites:
-- rijksmuseum_assignment
-- html_assignment
+- html_assignment 

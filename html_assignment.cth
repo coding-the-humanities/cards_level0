@@ -3,23 +3,21 @@ html_assignment
 level:    0
 type:     assignment
 subject:  html
-optional: true
-points:   100000000000000000000009
+optional: false 
+points:   100
 
 objective: |
-  The learning objective for this assignment is to be able 
-  to make a web page that looks good, with the use of HTML and CSS!
+  The learning objective for this assignment is to be able to get your images in a HTML file!
 
 requirements:
-- The basic web page needs to have a HTML file and a CSS file. 
-- The basic web page needs to contain the 9 pictures that you have made in the 
-  Rijksmuseum accompanied with the text, why you have chosen to make the 
-  picture (with a maximum of 40 words per picture).
-- The basic webpage needs to 
+- The basic web page needs to have a HTML file with a good HTML5 structure
+- The basic web page needs to contain at least 9 pictures that you have made 
+- The basic web page needs to hold text(around 40 words per picture) 
 
 resources:
   cards:
   - html_introduction
+  - html_structure
   - html_links
   articles:
   - url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
@@ -27,4 +25,4 @@ resources:
   - url: https://www.youtube.com/watch?v=qVY2x6f3FTU
 
 prerequisites:
-- rijksmuseum_assignment || paradiso assignment || Reika assignment
+- rijksmuseum_assignment || party_assignment 

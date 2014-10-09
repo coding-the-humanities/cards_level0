@@ -1,0 +1,17 @@
+party_assignment
+-----------------
+level:	  0
+type:	  assignment
+subject:  picture
+optional: true
+points:	  50
+
+objective: 
+	The learning objective for this assignment is to be aware what people are aware of during a party
+
+requirement:
+- Go to a party
+- Take at least 9 pictures of things that are striking to you
+- Write down why you took these pictures
+- And enjoy the party!
+

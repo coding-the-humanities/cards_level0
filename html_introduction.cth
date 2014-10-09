@@ -1,8 +1,9 @@
 html_introduction
 ------------------
-level: 0
-type: introduction
-subject: html
+level:    0
+type:     introduction
+subject:  html
+optional: true
 
 description: |
   When you look at a web page in a web browser, you see, at the simplest level,
@@ -15,12 +16,7 @@ description: |
 
 resources:
   articles:
-    url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+  - url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
   videos:
-    url: https://www.youtube.com/watch?v=qVY2x6f3FTU
+  - url: https://www.youtube.com/watch?v=qVY2x6f3FTU
 
-tags:
-- html
-- introduction
-- hypertext markup language
-- level0
