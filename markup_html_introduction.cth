@@ -1,0 +1,23 @@
+Markup_language_introduction
+--------------------------------------
+level: 0
+type: introduction
+subject: html and CSS
+
+content: | 
+  A (document) markup language is a modern system for annotating a 
+  document in a way that is syntactically distinguishable from the text.
+  When you look at a web page in a web browser, you see, at the simplest 
+  level, words. Those words are HTML (Hypertext Markup Language). 
+  It tells the web browser what content to display. 
+
+url: http://en.wikipedia.org/wiki/Markup_language
+
+url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+  video: https://www.youtube.com/watch?v=qVY2x6f3FTU
+
+tags: 
+  - html 
+  - introduction
+  - hypertext markup language
+  - level0

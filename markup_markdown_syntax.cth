@@ -1,0 +1,20 @@
+markdown_syntax
+----------------
+level: 0
+type: theory
+subject: markdown 
+
+content:|
+  Markdown is a plain text formatting syntax designed so that it optionally can be converted to HTML using a tool by the same name. Markdown is popularly used to format readme files, for writing messages in online discussion forums or in text editors for the quick creation of rich text documents.
+
+url: http://en.wikipedia.org/wiki/Markdown
+
+tags:
+  -format
+  -markdown
+  -readme
+  -text
+  -documents
+  -tool
+  -HTML
+  -syntax

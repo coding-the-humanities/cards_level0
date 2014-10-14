@@ -1,0 +1,30 @@
+CSS_
+-------------
+level: 0
+type: theory
+subject CSS
+
+content: |
+
+You can change the size of your elements inside your rule by using width: and  height: 
+you can specify using pixels with px or in percentages using %.
+.yourClassName{
+  width: 250px
+  height: 100px
+}
+
+url: https://developer.mozilla.org/en-US/docs/Web/CSS/width
+url: https://developer.mozilla.org/en-US/docs/Web/CSS/height
+
+tags:
+	-CSS
+	-style
+	-width
+	-height
+  -px
+  -%
+  -percentage
+  -pixels
+	-level 0
+	
+

@@ -1,0 +1,22 @@
+CSS_
+-------------
+level: 0
+type: theory
+subject CSS
+
+content: |
+
+You can change your font by changing the font-family in your CSS
+
+url: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+
+tags:
+	-CSS
+	-style
+	-class
+	-rule
+	-level 0
+	-DOM
+	-ID
+	-pseudo
+

@@ -1,0 +1,24 @@
+Style_introduction
+----------------
+level: 0 
+type: introduction
+subject: css
+
+content: | 
+  Presentational elements such as the layout, colors, and fonts are a 
+  part of styling. An example of a style sheet language is CSS 
+  (Cascading Style Sheets). CSS is designed primarily to enable 
+  the separation of document content from document presentation. 
+
+url: http://www.cssbasics.com/introduction-to-css/
+  video: https://www.youtube.com/watch?v=HFmaW5WYxe0
+
+tags: 
+  -css
+  -introduction
+  -cascading style sheet
+  -level0
+  -presentation
+  -font
+  -color
+
